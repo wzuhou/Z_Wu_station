@@ -21,18 +21,7 @@ Xiayi Liu, **Zhou Wu**, Junying Li, Haigang Bao* and Changxin Wu
 
 
 
+![Image](https://raw.githubusercontent.com/wzuhou/Z_Wu_station/gh-pages/invitation.png)
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-
-#You can use the [editor on GitHub](https://github.com/wzuhou/Z_Wu_station/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-#Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.#
 
