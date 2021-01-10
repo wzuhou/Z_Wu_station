@@ -3,7 +3,7 @@ My PhD project focuses on functional genomics in chicken, including the genotype
 human-mediated introgression, comparative genomics, and transcriptomics.
 I have working experience in whole-genome sequence data, RNA-seq data,and genome editing techniques (CRISPR-Cas9).
 My passion and interest are growing in bioinformatics to develop computational tools, understanding the function of the genome, and using genomics to study the demographic history of domesticated populations. And I am a person full of curiosity, which makes me enthusiastic about new knowledge.
-
+### Key words: genomics, genetics, bioinformatics, and chicken
 
 ## Publications
 
