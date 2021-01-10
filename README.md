@@ -1,1 +1,2 @@
-# Z_Wu_station
+# ZWu_station
+### Key words: genomics, genetics, chicken
