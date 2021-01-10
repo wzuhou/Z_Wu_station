@@ -23,5 +23,3 @@ Xiayi Liu, **Zhou Wu**, Junying Li, Haigang Bao* and Changxin Wu
 
 ![Image](https://raw.githubusercontent.com/wzuhou/Z_Wu_station/gh-pages/invitation.png)
 
-
-
