@@ -20,11 +20,13 @@ Xiayi Liu, **Zhou Wu**, Junying Li, Haigang Bao# and Changxin Wu
 *Front. Genet*. 9:193. [doi: 10.3389/fgene.2018.00193](https://www.frontiersin.org/articles/10.3389/fgene.2018.00193/full)
 **Zhou Wu**, Martijn FL Derks, Bert Dibbits, Hendrik-Jan Megens, Martien AM Groenen, Richard PMA Crooijmans#
 
+## Education background
+- PhD *Wageningen University and Rsearch, the Netherlands*
+- MSc *China Agricultural University, China*
+- BSc *China Agricultural University, China*
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/wzuhou/Z_Wu_station/gh-pages/invitation.png">
 </p>
 
-## Education
-- PhD *Wageningen University and Rsearch, the Netherlands*
-- MSc *China Agricultural University, China*
-- BSc *China Agricultural University, China*
+
