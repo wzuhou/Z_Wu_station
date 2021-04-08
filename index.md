@@ -1,8 +1,9 @@
 ## About me
-My PhD project focuses on functional genomics in chicken, including the genotype-phenotype mapping, population genetics of 
-human-mediated introgression, comparative genomics, and transcriptomics.
-I have working experience in whole-genome sequence data, RNA-seq data,and genome editing techniques (CRISPR-Cas9).
-My passion and interest are growing in bioinformatics to develop computational tools, understanding the function of the genome, and using genomics to study the demographic history of domesticated populations. And I am a person full of curiosity, which makes me enthusiastic about new knowledge.
+My PhD project in WUR focuses on functional genomics in chicken, including the genotype-phenotype mapping, population genetics of human-mediated introgression, comparative genomics, and transcriptomics.
+**Research experience** ：Whole-genome sequence data, RNA-seq data,and genome editing techniques (CRISPR-Cas9).
+**My passion and interest** are growing in bioinformatics to develop computational tools, understanding the function of the genome, and using genomics to study the demographic history of domesticated populations. 
+I am a person full of curiosity, which makes me enthusiastic about new knowledge. :metal:
+
 ### Key words: genomics, genetics, bioinformatics, and chicken
 
 ## Publications
@@ -23,4 +24,7 @@ Xiayi Liu, **Zhou Wu**, Junying Li, Haigang Bao# and Changxin Wu
   <img src="https://raw.githubusercontent.com/wzuhou/Z_Wu_station/gh-pages/invitation.png">
 </p>
 
-
+## Education
+- PhD *Wageningen University and Rsearch, the Netherlands*
+- MSc *China Agricultural University, China*
+- BSc *China Agricultural University, China*
