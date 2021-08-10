@@ -1,2 +1,2 @@
 # ZWu_station
-### Key words: genomics, genetics, chicken
+### Key words: genomics, genetics, avian, seasonality
