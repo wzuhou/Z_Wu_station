@@ -1,5 +1,6 @@
 ## About me
-My PhD project in WUR focuses on functional genomics in chicken, including the genotype-phenotype mapping, population genetics of human-mediated introgression, comparative genomics, and transcriptomics.
+Research fellow at the Roslin institute, University of Edinburgh, UK. My postdoctoral project is about the genomics of sparrow and the RNA-seq analysis on seasonality.
+My did my PhD in Wageningen University& Research, the Netherlands (2016-2021). My PhD project in WUR focused on functional genomics in chicken, including the genotype-phenotype mapping, population genetics of human-mediated introgression, comparative genomics, and transcriptomics.
 
 **Research experience** ：Whole-genome sequence data, RNA-seq data,and genome editing techniques (CRISPR-Cas9).
 
