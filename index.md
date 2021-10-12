@@ -12,9 +12,9 @@ Key words: genomics, genetics, bioinformatics, and chicken
 
 ## Links
 
-[Google Scholar](https://scholar.google.com/citations?user=oekxAsIAAAAJ&hl=en)
+:smile_cat: [Google Scholar](https://scholar.google.com/citations?user=oekxAsIAAAAJ&hl=en)
 
-[Twitter](https://twitter.com/wzuhou)
+:smirk_cat: [Twitter](https://twitter.com/wzuhou)
 
 ## Publications
 
