@@ -1,5 +1,6 @@
 ## About me
-Research fellow at the Roslin institute, University of Edinburgh, UK. My postdoctoral project is about the genomics of sparrow and the RNA-seq analysis on seasonality.
+Research fellow at the Roslin institute, University of Edinburgh, UK. 
+My postdoctoral project is about the genomics of sparrow and the RNA-seq analysis on seasonality.
 I did my PhD in Wageningen University& Research, the Netherlands (2016-2021). My PhD project in WUR focused on functional genomics in chicken, including the genotype-phenotype mapping of dwarfism, population genetics of human-mediated introgression, comparative genomics, and transcriptomics.
 
 **Research experience**： Whole-genome sequence data, RNA-seq data,and genome editing techniques (CRISPR-Cas9).
@@ -11,10 +12,13 @@ I am a person full of curiosity, which makes me enthusiastic about new knowledge
 Key words: genomics, genetics, bioinformatics, and chicken 
 
 ## Links
+[Profile](https://www.ed.ac.uk/profile/zhouwu-researchfellow)
 
-:smile_cat: [Google Scholar](https://scholar.google.com/citations?user=oekxAsIAAAAJ&hl=en)
+[Google Scholar](https://scholar.google.com/citations?user=oekxAsIAAAAJ&hl=en)
 
-:smirk_cat: [Twitter](https://twitter.com/wzuhou)
+[Twitter](https://twitter.com/wzuhou)
+
+[ORCID](https://orcid.org/0000-0002-8840-9630)
 
 ## Publications
 
