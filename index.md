@@ -1,9 +1,11 @@
 # About me
 I am currently a research fellow at the Roslin institute, University of Edinburgh, UK. My project is about the genomics of sparrow and the RNA-seq analysis on seasonality.I did my PhD in Wageningen University& Research, the Netherlands (2016-2021). My PhD project in WUR focused on functional genomics in chicken, including the genotype-phenotype mapping of dwarfism, population genetics of human-mediated introgression, comparative genomics, and transcriptomics.
 
+**Avian genomics; Chicken dwarfism; bird genome and transcriptome; Bioinformatics; Population genomics; Ecology and environmental stress.**
+
 **Research experience**： Whole-genome sequence data, RNA-seq data,and genome editing techniques (CRISPR-Cas9).
 
-**My passion and interest** are growing in bioinformatics to develop bioinformatic tools, understanding the function of the genome, and using genomics to study the demographic history of domesticated populations. I am a person full of curiosity, which makes me enthusiastic about new knowledge. :metal:
+**My passion and interest** are growing in bioinformatics to develop bioinformatic pipelines, understanding the function of the genome; using genomics to study the demographic history of domesticated populations; and how gene regulation in response to changing climate in free-living birds. I am a person full of curiosity, which makes me enthusiastic about new ideas. :metal:
 
 
 # Links
