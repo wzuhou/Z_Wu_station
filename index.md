@@ -1,15 +1,12 @@
-## About me
+# About me
 I am currently a research fellow at the Roslin institute, University of Edinburgh, UK. My project is about the genomics of sparrow and the RNA-seq analysis on seasonality.I did my PhD in Wageningen University& Research, the Netherlands (2016-2021). My PhD project in WUR focused on functional genomics in chicken, including the genotype-phenotype mapping of dwarfism, population genetics of human-mediated introgression, comparative genomics, and transcriptomics.
 
 **Research experience**： Whole-genome sequence data, RNA-seq data,and genome editing techniques (CRISPR-Cas9).
 
-**My passion and interest** are growing in bioinformatics to develop bioinformatic tools, understanding the function of the genome, and using genomics to study the demographic history of domesticated populations. 
+**My passion and interest** are growing in bioinformatics to develop bioinformatic tools, understanding the function of the genome, and using genomics to study the demographic history of domesticated populations. I am a person full of curiosity, which makes me enthusiastic about new knowledge. :metal:
 
-I am a person full of curiosity, which makes me enthusiastic about new knowledge. :metal:
 
-Key words: genomics, genetics, bioinformatics, and chicken 
-
-## Links
+# Links
 [Profile](https://www.ed.ac.uk/profile/zhouwu-researchfellow)
 
 [Google Scholar](https://scholar.google.com/citations?user=oekxAsIAAAAJ&hl=en)
@@ -18,7 +15,7 @@ Key words: genomics, genetics, bioinformatics, and chicken
 
 [ORCID](https://orcid.org/0000-0002-8840-9630)
 
-## Publications
+# Publications
 
 - 2024 - A chromosome-level genome assembly of a free-living white-crowned sparrow (*Zonotrichia leucophrys gambelii*)
 *Scientific Data* 11, 86 (2024). [https://doi.org/10.1038/s41597-024-02929-6]
@@ -46,7 +43,7 @@ Xiayi Liu, **Zhou Wu**, Junying Li, Haigang Bao# and Changxin Wu
 *Front. Genet*. 9:193. [doi: 10.3389/fgene.2018.00193](https://www.frontiersin.org/articles/10.3389/fgene.2018.00193/full)
 **Zhou Wu**, Martijn FL Derks, Bert Dibbits, Hendrik-Jan Megens, Martien AM Groenen, Richard PMA Crooijmans#
 
-## Education background
+# Education background
 - PhD *Wageningen University and Rsearch, the Netherlands*
 - MSc *China Agricultural University, China*
 - BSc *China Agricultural University, China*
