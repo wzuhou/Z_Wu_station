@@ -1,7 +1,5 @@
 ## About me
-Research fellow at the Roslin institute, University of Edinburgh, UK. 
-My postdoctoral project is about the genomics of sparrow and the RNA-seq analysis on seasonality.
-I did my PhD in Wageningen University& Research, the Netherlands (2016-2021). My PhD project in WUR focused on functional genomics in chicken, including the genotype-phenotype mapping of dwarfism, population genetics of human-mediated introgression, comparative genomics, and transcriptomics.
+I am currently a research fellow at the Roslin institute, University of Edinburgh, UK. My project is about the genomics of sparrow and the RNA-seq analysis on seasonality.I did my PhD in Wageningen University& Research, the Netherlands (2016-2021). My PhD project in WUR focused on functional genomics in chicken, including the genotype-phenotype mapping of dwarfism, population genetics of human-mediated introgression, comparative genomics, and transcriptomics.
 
 **Research experience**： Whole-genome sequence data, RNA-seq data,and genome editing techniques (CRISPR-Cas9).
 
@@ -21,6 +19,12 @@ Key words: genomics, genetics, bioinformatics, and chicken
 [ORCID](https://orcid.org/0000-0002-8840-9630)
 
 ## Publications
+
+- 2024 - A chromosome-level genome assembly of a free-living white-crowned sparrow (*Zonotrichia leucophrys gambelii*)
+*Scientific Data* 11, 86 (2024). [https://doi.org/10.1038/s41597-024-02929-6]
+**Zhou Wu**, Katarzyna Miedzinska, Jesse S. Krause, Jonathan H. Pérez, John C. Wingfield, Simone L. Meddle & Jacqueline Smith 
+ 
+- 2023 - Fourth report on chicken genes and chromosomes, *Cytogenetic and genome research*, 2022 
 
 - 2021 - Deleterious mutations in the tpo gene associated with familial thyroid follicular cell carcinoma in dutch german longhaired pointers
 *Genes*, 2021  [https://doi.org/10.3390/genes12070997](https://www.mdpi.com/2073-4425/12/7/997)
