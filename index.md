@@ -18,7 +18,7 @@ I am currently a research fellow at the Roslin institute, University of Edinburg
 # Publications
 
 - 2024 - A chromosome-level genome assembly of a free-living white-crowned sparrow (*Zonotrichia leucophrys gambelii*)
-*Scientific Data* 11, 86 (2024). [https://doi.org/10.1038/s41597-024-02929-6]
+*Scientific Data* 11, 86 (2024). [https://doi.org/10.1038/s41597-024-02929-6](https://doi.org/10.1038/s41597-024-02929-6)
 **Zhou Wu**, Katarzyna Miedzinska, Jesse S. Krause, Jonathan H. Pérez, John C. Wingfield, Simone L. Meddle & Jacqueline Smith 
  
 - 2023 - Fourth report on chicken genes and chromosomes, *Cytogenetic and genome research*, 2022 
@@ -28,7 +28,7 @@ I am currently a research fellow at the Roslin institute, University of Edinburg
 Yun Yu, Henk Bovenhuis, **Zhou Wu**, Kimberley Laport, Martien AM Groenen, Richard PMA Crooijmans
 
 - 2021 - Time Course Transcriptomic Study Reveals the Gene Regulation During Liver Development and the Correlation With Abdominal Fat Weight in Chicken
-*Frontiers in Genetics* ,2021 [ https://doi.org/10.3389/fgene.2021.723519](https://www.frontiersin.org/articles/10.3389/fgene.2021.723519/full)
+*Frontiers in Genetics* ,2021 [https://doi.org/10.3389/fgene.2021.723519](https://www.frontiersin.org/articles/10.3389/fgene.2021.723519/full)
 Siyuan Xing, Ranran Liu, Guiping Zhao, Martien AM Groenen, Ole Madsen, Lu Liu, Maiqing Zheng, Qiao Wang, **Zhou Wu**, Richard PMA Crooijmans, Jie Wen
 
 - 2020 - Heterogeneity of a dwarf phenotype in Dutch traditional chicken breeds revealed by genomic analyses 
