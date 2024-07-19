@@ -18,28 +18,34 @@ I am currently a research fellow at the Roslin institute, University of Edinburg
 # Publications
 
 - 2024 - A chromosome-level genome assembly of a free-living white-crowned sparrow (*Zonotrichia leucophrys gambelii*)
+
 *Scientific Data* 11, 86 (2024). [https://doi.org/10.1038/s41597-024-02929-6](https://doi.org/10.1038/s41597-024-02929-6)
 **Zhou Wu**, Katarzyna Miedzinska, Jesse S. Krause, Jonathan H. Pérez, John C. Wingfield, Simone L. Meddle & Jacqueline Smith 
  
 - 2023 - Fourth report on chicken genes and chromosomes, *Cytogenetic and genome research*, 2022 
 
 - 2021 - Deleterious mutations in the tpo gene associated with familial thyroid follicular cell carcinoma in dutch german longhaired pointers
+
 *Genes*, 2021  [https://doi.org/10.3390/genes12070997](https://www.mdpi.com/2073-4425/12/7/997)
 Yun Yu, Henk Bovenhuis, **Zhou Wu**, Kimberley Laport, Martien AM Groenen, Richard PMA Crooijmans
 
 - 2021 - Time Course Transcriptomic Study Reveals the Gene Regulation During Liver Development and the Correlation With Abdominal Fat Weight in Chicken
-*Frontiers in Genetics* ,2021 [https://doi.org/10.3389/fgene.2021.723519](https://www.frontiersin.org/articles/10.3389/fgene.2021.723519/full)
+  
+*Frontiers in Genetics*, 2021 [https://doi.org/10.3389/fgene.2021.723519](https://www.frontiersin.org/articles/10.3389/fgene.2021.723519/full)
 Siyuan Xing, Ranran Liu, Guiping Zhao, Martien AM Groenen, Ole Madsen, Lu Liu, Maiqing Zheng, Qiao Wang, **Zhou Wu**, Richard PMA Crooijmans, Jie Wen
 
-- 2020 - Heterogeneity of a dwarf phenotype in Dutch traditional chicken breeds revealed by genomic analyses 
+- 2020 - Heterogeneity of a dwarf phenotype in Dutch traditional chicken breeds revealed by genomic analyses
+  
 *Evol. Appl.* [doi: 10.1111/eva.13183](https://onlinelibrary.wiley.com/doi/abs/10.1111/eva.13183)
 **Zhou Wu** #, Chiara Bortoluzzi, Martijn F.L. Derks, Langqing Liu, Mirte Bosse, Sipke Joost Hiemstra, Martien A.M. Groenen, and Richard P.M.A. Crooijmans
 
 - 2020 - Genome Wide Association Study and Transcriptome Differential Expression Analysis of the Feathering Rate in Shouguang Chickens
+  
 *Front. Genet.* 11:613078. [doi: 10.3389/fgene.2020.613078](https://www.frontiersin.org/articles/10.3389/fgene.2020.613078/full)
 Xiayi Liu, **Zhou Wu**, Junying Li, Haigang Bao# and Changxin Wu
 
 - 2018 - A novel loss-of-function variant in transmembrane protein 263 (TMEM263) of autosomal dwarfism in chicken
+
 *Front. Genet*. 9:193. [doi: 10.3389/fgene.2018.00193](https://www.frontiersin.org/articles/10.3389/fgene.2018.00193/full)
 **Zhou Wu**, Martijn FL Derks, Bert Dibbits, Hendrik-Jan Megens, Martien AM Groenen, Richard PMA Crooijmans#
 
