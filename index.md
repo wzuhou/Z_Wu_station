@@ -1,4 +1,6 @@
+
 # About me
+
 I am currently a research fellow at the Roslin institute, University of Edinburgh, UK. My project is about the genomics of sparrow and the RNA-seq analysis on seasonality. I did my PhD in Wageningen University& Research, the Netherlands. My PhD project in WUR focused on functional genomics in chicken, especially genetic variants and haplotype diversity, including the genotype-phenotype mapping of chicken dwarfism, population genetics of human-mediated introgression, comparative genomics, and transcriptomics.
 
 **Avian genomics; Chicken dwarfism; bird genome and transcriptome; Bioinformatics; Population genomics; Ecology and environmental stress.**
@@ -16,7 +18,7 @@ I am currently a research fellow at the Roslin institute, University of Edinburg
 
 [ORCID](https://orcid.org/0000-0002-8840-9630)
 
-## Highlifhts
+## Highlights
 
 1. Identified a novel loss-of-function mutation in *TMEM263* to be associated with dwarfism.
 
