@@ -31,6 +31,7 @@ I am currently a research fellow at the Roslin institute, University of Edinburg
 
 # Publications
 
+(# denotes corresponding authors)
 - 2024 - A chromosome-level genome assembly of a free-living white-crowned sparrow (*Zonotrichia leucophrys gambelii*).
 *Scientific Data* 11, 86 (2024). [https://doi.org/10.1038/s41597-024-02929-6](https://doi.org/10.1038/s41597-024-02929-6)
 
